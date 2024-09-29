@@ -1,1 +1,2 @@
-"I am " 
+I am the first planet.
+Mercury i closest to sun.
